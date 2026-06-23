@@ -30,26 +30,6 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 └── README.md
 ```
 
-## ▶️ How to Run Locally
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Open the project folder
-
-```bash
-cd your-repository-name
-```
-
-3. Open `index.html` in your browser.
-
-## 📸 Screenshot
-
-(Add a screenshot here)
-
 ## 🌐 Live Website
 
 https://tic-tac-toe-xol3.onrender.com
@@ -58,7 +38,7 @@ https://tic-tac-toe-xol3.onrender.com
 
 **Rahul Maurya**
 
-GitHub: https://github.com/RahulMaurya90058/tik-tac-toe
+GitHub: https://github.com/RahulMaurya90058
 
 ---
 
